@@ -1,4 +1,4 @@
-// swift-tools-version:5.7
+// swift-tools-version:5.9
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -20,7 +20,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CaptureUX",
-            url: "https://github.com/BlinkID/capture-ios/releases/download/v1.1.0/CaptureUX.xcframework.zip",
-            checksum: "6aea29aa91339a154fef57f4faf9130d7143ef03eafeefcc32aaf12fa821cd4f")
+            url: "https://github.com/BlinkID/capture-ios/releases/download/v1.1.1/CaptureUX.xcframework.zip",
+            checksum: "b39099cc7d01f304d3c20452cc6043b0a14e42ab610fbcec0f5dbc4b180c34bb")
     ]
 )
