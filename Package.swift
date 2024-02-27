@@ -20,7 +20,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CaptureUX",
-            url: "https://github.com/BlinkID/capture-ios/releases/download/v1.2.1/CaptureUX.xcframework.zip",
-            checksum: "e51dc62e9133e54af6e95ff1487ab29d18930456c892664246023b333acff635")
+            url: "https://github.com/BlinkID/capture-ios/releases/download/v1.2.2/CaptureUX.xcframework.zip",
+            checksum: "5315212adefffe741bed36a0c01141d13ea1d70c1df061a6914d12f6d79791d4")
     ]
 )
